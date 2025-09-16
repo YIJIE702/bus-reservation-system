@@ -1,6 +1,6 @@
-# 🚌 **Bus Reservation System ** 
+# 🚌 **Bus Reservation System** 
 
-## 📌 **Project Overview ** 
+## 📌 **Project Overview** 
 This project is a **Java-based Bus Reservation and Ticketing System** developed.
 The system allows users to:  
 - View available bus destinations and fares  
@@ -12,15 +12,15 @@ The main goal of this project is to simulate a real-world bus reservation workfl
 
 ---
 
-## 🎯 **Objectives  **
+## 🎯 **Objectives**
 1. Design a computer application using **Java** and **OOP principles**.  
 2. Implement OOP concepts such as **classes**, **objects**, **encapsulation**, **inheritance**, and **polymorphism**.  
 3. Simulate a **real bus ticketing system** with multiple features for booking, billing, and ticket management.  
 
 ---
 
-## 🛠️ **Methodology  **
-### 1️⃣ **System Design ** 
+## 🛠️ **Methodology**
+### 1️⃣ **System Design** 
 The system is implemented using **Java** and tested on **NetBeans IDE**.  
 - **Class Diagram:**  
   - Main `Bus` class handles seat management, ticket storage, and user interactions.
@@ -28,7 +28,7 @@ The system is implemented using **Java** and tested on **NetBeans IDE**.
 - **Flowchart:**  
   - User logs in → Main menu → Selects option → Performs booking/billing/viewing → Option to continue or exit.
 
-### 2️⃣ **Core Features ** 
+### 2️⃣ **Core Features** 
 - **Login System:**  
   - Default credentials: **Username: 1 | Password: 1**  
   - Three failed attempts terminate the program automatically.  
