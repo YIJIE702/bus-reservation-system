@@ -12,7 +12,7 @@ The main goal of this project is to simulate a real-world bus reservation workfl
 
 ---
 
-## 🎯 O**bjectives  **
+## 🎯 **Objectives  **
 1. Design a computer application using **Java** and **OOP principles**.  
 2. Implement OOP concepts such as **classes**, **objects**, **encapsulation**, **inheritance**, and **polymorphism**.  
 3. Simulate a **real bus ticketing system** with multiple features for booking, billing, and ticket management.  
@@ -45,19 +45,19 @@ The system is implemented using **Java** and tested on **NetBeans IDE**.
 
 ---
 
-📦 **Requirements**
+## 📦 **Requirements**
 - Language: Java
 - IDE: NetBeans (or any Java-compatible IDE)
 - JDK: 8+
 
 ---
 
-📌 **Conclusion**
+## 📌 **Conclusion**
 The Bus Reservation System successfully simulates a real-world ticketing environment, allowing users to view routes, book tickets, handle payments, and check ticket status. It demonstrates the practical application of object-oriented programming principles and ensures a smooth user experience with proper error handling and seat management.
 
 ---
 
-✨ **Future Improvements**
+## ✨ **Future Improvements**
 - Database Integration – Store booking data persistently instead of using in-memory arrays.
 - GUI Implementation – Build a user-friendly interface using JavaFX or Swing.
 - Online Payment Simulation – Support card/QR payment options.
