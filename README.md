@@ -66,4 +66,5 @@ The Bus Reservation System successfully simulates a real-world ticketing environ
 ---
 
 ## 📜 **License**
-This project is licensed under the [MIT License](./LICENSE).  
+This project is for educational purposes under NMJ21403 - Object-oriented Programming coursework.
+You may modify and use this project for learning, but proper credit to the author is appreciated. 
